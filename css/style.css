@@ -123,6 +123,7 @@ body{
 #name-inputs {
     gap: 20px;
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
     margin-top: 200px;
